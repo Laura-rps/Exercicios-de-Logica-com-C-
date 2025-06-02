@@ -1,6 +1,6 @@
 ﻿using System;
 using ExerciciosLogica;
 
-ExemploIfElseIf.Main(args);
+TrigoXadrez.Main(args);
 
 

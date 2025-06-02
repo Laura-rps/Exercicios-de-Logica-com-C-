@@ -12,3 +12,4 @@ C:\Users\Laura\source\repos\ExerciciosLogica\obj\Debug\net8.0\refint\ExerciciosL
 C:\Users\Laura\source\repos\ExerciciosLogica\obj\Debug\net8.0\ExerciciosLogica.pdb
 C:\Users\Laura\source\repos\ExerciciosLogica\obj\Debug\net8.0\ExerciciosLogica.genruntimeconfig.cache
 C:\Users\Laura\source\repos\ExerciciosLogica\obj\Debug\net8.0\ref\ExerciciosLogica.dll
+C:\Users\Laura\source\repos\ExerciciosLogica\obj\Debug\net8.0\ExerciciosLogica.sourcelink.json
