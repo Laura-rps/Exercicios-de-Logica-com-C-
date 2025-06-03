@@ -1,6 +1,5 @@
 ﻿using System;
-using ExerciciosLogica;
+using LogicaComCsharp;
 
-TrigoXadrez.Main(args);
-
+DivisivelPor4.Main(args);
 
