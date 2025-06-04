@@ -11,7 +11,7 @@ namespace ExerciciosLogica
         public static void Main(string[] args)
         {
             Console.WriteLine("Somatorio do numero de grãos de trigo \n");
-            int i = 0, anterior = 0, atual = 1, somaTrigo = 0, proximo = 2;
+            int i = 0, anterior = 0, atual = 1, somaTrigo = 0;
             do
             {             
                 atual += anterior;
@@ -20,7 +20,7 @@ namespace ExerciciosLogica
 
                 anterior = atual;
 
-                atual = proximo;
+                atual += 2;
 
                 i++;
 

@@ -1,6 +1,6 @@
 ﻿using System;
 using ExerciciosLogica;
 
-TrigoXadrez.Main(args);
+ArredondarNumero.Main(args);
 
 
