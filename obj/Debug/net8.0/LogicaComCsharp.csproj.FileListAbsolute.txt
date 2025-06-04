@@ -1,0 +1,14 @@
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\bin\Debug\net8.0\LogicaComCsharp.exe
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\bin\Debug\net8.0\LogicaComCsharp.deps.json
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\bin\Debug\net8.0\LogicaComCsharp.runtimeconfig.json
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\bin\Debug\net8.0\LogicaComCsharp.dll
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\bin\Debug\net8.0\LogicaComCsharp.pdb
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\LogicaComCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\LogicaComCsharp.AssemblyInfoInputs.cache
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\LogicaComCsharp.AssemblyInfo.cs
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\LogicaComCsharp.csproj.CoreCompileInputs.cache
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\LogicaComCsharp.dll
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\refint\LogicaComCsharp.dll
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\LogicaComCsharp.pdb
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\LogicaComCsharp.genruntimeconfig.cache
+C:\Users\laura.rpsilva1\source\repos\LogicaComCsharp\obj\Debug\net8.0\ref\LogicaComCsharp.dll
